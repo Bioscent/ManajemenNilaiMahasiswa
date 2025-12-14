@@ -1,8 +1,8 @@
 # ManajemenNilaiMahasiswa
-Program manajemen nilai mahasiswa yang digunakan untuk merekap seluruh data nilai mahasiswa
-Anggota Kelompok:
-Bara Paramarta Widanoto
-Angger Naufal Abror
-Emanuel Henji Pratama Putra
-Bunga Talenta Cindikia
-Oktarina Putri
+Program manajemen nilai mahasiswa yang digunakan untuk merekap seluruh data nilai mahasiswa.<br />
+Anggota Kelompok:<br />
+• Bara Paramarta Widanoto<br />
+• Angger Naufal Abror<br />
+• Emanuel Henji Pratama Putra<br />
+• Bunga Talenta Cindikia<br />
+• Oktarina Putri
